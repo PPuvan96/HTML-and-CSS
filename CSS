@@ -1,0 +1,42 @@
+body{
+    background: fixed;
+    background-color: rgb(60, 246, 171);
+    
+}
+h1{
+    text-align: center;
+    text-shadow: 20px rgb(2, 2, 2);
+}
+
+.man{
+    text-align: left;
+}
+
+.bio{
+    text-align: center;
+    align-content: center;
+    font-style: italic;
+    font-display: white;
+}
+
+.about{
+    margin: 6%;
+    padding: 15px;
+    border-radius: 10px;;
+    background-color: rgb(27, 180, 78);
+    margin: 6%;
+    align-content: center;
+    text-align: left;
+    box-shadow: 8px 8px 8px rgb(205, 206, 124);
+}
+
+.abouttitle{
+    text-align: center;
+    box-shadow: 20px;
+    color: aliceblue;
+}
+
+.ul1{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-color: beige;
+}
